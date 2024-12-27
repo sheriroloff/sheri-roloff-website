@@ -31,7 +31,7 @@ class MoreInStore extends HTMLElement {
 						<p>Browse books, zines, art prints, t-shirts and more!</p>
 					</header>
 					<ul class="actions">
-						<li><a href="https://shop.sheriroloff.com/" class="button big alt" target="_blank" rel="noopener noreferrer">Shop Now</a></li>
+						<li><a href="https://sheriroloff.myshopify.com/" class="button big alt" target="_blank" rel="noopener noreferrer">Shop Now</a></li>
 					</ul>
 				</div>
 			</section>
